@@ -2,6 +2,8 @@
 
 This project utilizes computer vision and machine learning to detect driver drowsiness in real-time using a webcam. The system can alert the driver if drowsiness is detected, potentially preventing accidents caused by fatigue.
 
+# Dataset: http://mrl.cs.vsb.cz/eyedataset
+
 ## Installation
 
 1. Install OpenCV: `pip install opencv-python`
