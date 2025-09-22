@@ -12,7 +12,7 @@ This project utilizes computer vision and machine learning to detect driver drow
 
 ## Usage
 
-1. Run the `drowsiness_main.py` script.
+1. Run the `drowsy_main.py` script.
 2. The webcam will capture the driver's face and eyes.
 3. The system will analyze the driver's eyes to detect drowsiness.
 4. If drowsiness is detected, an alarm sound will be played to alert the driver.
